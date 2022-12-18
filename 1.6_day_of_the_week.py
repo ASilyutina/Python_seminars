@@ -27,3 +27,17 @@ def checkNumber(num):
 
 num = InputNumbers("Введите число: ")
 checkNumber(num)
+
+
+#day=int(input())
+#if 1<=day<=5:
+#   print('no')
+# else:
+#   print('yes')
+
+
+
+
+
+
+
