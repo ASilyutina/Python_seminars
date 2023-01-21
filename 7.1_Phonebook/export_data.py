@@ -1,7 +1,7 @@
 # модуль экспорта данных 
 
 def export_data():
-    with open('phone.csv', 'r') as file:
+    with open('HWPS7.csv', 'r') as file:
         data = []
         t = []
         for line in file:
